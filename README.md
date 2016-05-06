@@ -58,3 +58,5 @@ If you would like to help make MvvmCross even better, then please do:
 ### Licensing
 
 MvvmCross is licensed under the [MS-PL License](http://opensource.org/licenses/ms-pl.html)
+
+System.Collections.Immutable.ImmutableDictionary used in the [DownloadCache plugin][https://github.com/MvvmCross/MvvmCross-Plugins/tree/master/DownloadCache/MvvmCross.Plugins.DownloadCache] is licensed under the [MIT-X11 License][https://opensource.org/licenses/MIT].
